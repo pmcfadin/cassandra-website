@@ -1,5 +1,6 @@
 .DS_Store
 /.idea/
+/.vscode/
 
 .env*
 
@@ -8,3 +9,4 @@
 
 /site-ui/node_modules/
 /site-ui/public/
+/content/

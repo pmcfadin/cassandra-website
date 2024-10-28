@@ -9,4 +9,9 @@
 
 /site-ui/node_modules/
 /site-ui/public/
-/content/
+/content/_/
+/content/assets/
+/content/doc/
+/content/index.html
+/content/search-index.js
+/content/404.html
